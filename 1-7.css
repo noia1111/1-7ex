@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   color: #6c6b6b;
-  
+
 }
 header {
   height: 400px;
@@ -11,7 +11,7 @@ header {
   background-size: cover;
   background-position: bottom;
   padding: 20px;
-  
+
 }
 
 .headling {
